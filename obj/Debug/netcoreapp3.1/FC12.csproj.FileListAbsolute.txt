@@ -1,0 +1,13 @@
+C:\Users\Vladimir\source\repos\FC12\FC12\bin\Debug\netcoreapp3.1\FC12.exe
+C:\Users\Vladimir\source\repos\FC12\FC12\bin\Debug\netcoreapp3.1\FC12.deps.json
+C:\Users\Vladimir\source\repos\FC12\FC12\bin\Debug\netcoreapp3.1\FC12.runtimeconfig.json
+C:\Users\Vladimir\source\repos\FC12\FC12\bin\Debug\netcoreapp3.1\FC12.runtimeconfig.dev.json
+C:\Users\Vladimir\source\repos\FC12\FC12\bin\Debug\netcoreapp3.1\FC12.dll
+C:\Users\Vladimir\source\repos\FC12\FC12\bin\Debug\netcoreapp3.1\FC12.pdb
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.dll
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.pdb
+C:\Users\Vladimir\source\repos\FC12\FC12\obj\Debug\netcoreapp3.1\FC12.genruntimeconfig.cache
